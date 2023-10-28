@@ -9,4 +9,4 @@ Drived Hardware/驱动的硬件：
 Please disable NootedRed.kext before you install it.
 If u don't change your vRAM manually, there will be only 512MB vRAM. Follow https://www.bilibili.com/video/BV12u41157vX/?spm_id_from=333.337.search-card.all.click to change it manually!
 请禁用NootedRed.kext于安装前。
-若未手动调整显存，显存将仅有512MB。观看https://www.bilibili.com/video/BV12u41157vX/?spm_id_from=333.337.search-card.all.click以修改显存。
+若未手动调整显存，显存将仅有512MB。观看https://www.bilibili.com/video/BV12u41157vX/?spm_id_from=333.337.search-card.all.click 以修改显存。
